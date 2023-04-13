@@ -1,0 +1,14 @@
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.exe.config
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.exe
+E:\OOP\PROJECT\myHms\hms\hms\bin\Debug\hms.pdb
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.csprojAssemblyReference.cache
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.exe
+E:\OOP\PROJECT\myHms\hms\hms\obj\Debug\hms.pdb
+E:\OOP\UMS\hms\bin\Debug\hms.exe.config
+E:\OOP\UMS\hms\bin\Debug\hms.exe
+E:\OOP\UMS\hms\bin\Debug\hms.pdb
+E:\OOP\UMS\hms\obj\Debug\hms.csprojAssemblyReference.cache
+E:\OOP\UMS\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+E:\OOP\UMS\hms\obj\Debug\hms.exe
+E:\OOP\UMS\hms\obj\Debug\hms.pdb

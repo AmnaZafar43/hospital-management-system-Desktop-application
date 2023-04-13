@@ -1,0 +1,4 @@
+dr.peter,male,22,heart,123,B+,09887654322,peter@gmail.com,lahore
+dr.fatima,female,31,chest,111,B+,09885674322,fatima@gmail.com,lahore
+dr.harry,male,22,child,444,B+,03224567988,harry@gmail.com,islamabad
+dr.musa,male,33,brain,5454,AB+,09887654322,musa@gmail.com,islamabad

@@ -1,0 +1,4 @@
+mozu,male,23,fever,222,lahore,B+,09887654322,0987654321234
+aymee,female,19,migraine,111,lahore,B+,09887654322,0987654321234
+amad,male,23,fever,222,lahore,B+,09887654322,0987654321234
+ellay,female,34,typhoid,333,islamabad,O+,09887654311,0987654321234
